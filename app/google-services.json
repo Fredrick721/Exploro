@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "461311042493",
-    "project_id": "Exploro-Travel-f65f4",
-    "storage_bucket": "Exploro-Travel-f65f4.firebasestorage.app"
+    "project_number": "337255796064",
+    "project_id": "explorotravel-e2618",
+    "storage_bucket": "explorotravel-e2618.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:461311042493:android:832f73e0cdde95c3b4a8d4",
+        "mobilesdk_app_id": "1:337255796064:android:704cb7ce8a4300b22f6205",
         "android_client_info": {
-          "package_name": "com.company.ExploroTravel"
+          "package_name": "com.adorah.ExploroTravel"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBaHaLUyKEexBAotZ6A7DbZLtYhVFKgUKM"
+          "current_key": "AIzaSyDEGTE6EMm5Fv5ylo9LPPpkRyiFOQZtXKU"
         }
       ],
       "services": {
